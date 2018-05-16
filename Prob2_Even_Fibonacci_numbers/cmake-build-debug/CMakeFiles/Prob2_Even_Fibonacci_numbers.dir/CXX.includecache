@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/paul/Projects/ProjectEuler_Cplusplus/Prob2_Even_Fibonacci_numbers/main.cpp
+iostream
+-
+queue
+-
+
